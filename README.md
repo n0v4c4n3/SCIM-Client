@@ -1,7 +1,7 @@
 SCIM-Client
 ===========
 
-ANII branch of SCIM client with UMA authorization.
+ANII SCIM client branch with UMA authorization.
 SCIM is a specification designed to reduce the complexity of user management operations by providing a common user schema
 and the patterns for exchanging this schema using HTTP in a platform-neutral fashion. The aim of SCIM is achieving
 interoperability, security, and scalability in the context of identity management.
